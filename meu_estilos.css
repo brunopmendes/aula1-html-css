@@ -1,0 +1,23 @@
+.titulo {
+    width: 100%;
+}
+
+.altura{
+    height: 50px;
+}
+
+.altura2{
+    height: 400px;
+}
+
+.cor1{
+    background-color: blue;
+}
+
+.cor2{
+    background-color: lightcoral;
+}
+
+.cor3{
+    background-color: grey;
+}
